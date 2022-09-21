@@ -1,0 +1,60 @@
+.login-menu{
+    border: 2px solid lightgray;
+    display: flex;
+    align-self: left;
+    text-align: left;
+    width: 350px;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+.sign-up{
+    margin-left: 45%;
+}
+
+.continue{
+    background-color: #f7c547;
+    color: black;
+    border: none;
+    width: 150%;
+    align-self: center;
+    height: 30px;
+    text-align: center;
+}
+
+
+
+.button2{
+    width: 340px;
+    height: 30px;
+    border-style: solid;
+    border: 2px solid lightgray;
+
+}
+
+.block{
+    width: 100%;
+    height: 100%;
+}
+
+.new{
+    color:rgb(108, 103, 103);
+    text-align: center;
+    margin-right: 420px;
+}
+
+h1{
+    text-align: left;
+}
+
+input{
+    width: 95%;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.forgot{
+    text-align: right;
+    text-decoration-color: aqua;
+    height: 20px;
+}
